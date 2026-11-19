@@ -1,0 +1,2 @@
+-r mushroom-classification/requirements.txt
+-r chest-xray-pneumonia/requirements.txt

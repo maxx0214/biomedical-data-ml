@@ -1,0 +1,47 @@
+# Datasets and generated experiment artifacts
+data/
+datasets/
+chest_xray/
+xray_results/
+*.csv
+*.zip
+*.tar
+*.gz
+*.npz
+*.npy
+*.jpg
+*.jpeg
+*.png
+*.dcm
+*.pt
+*.pth
+*.h5
+*.keras
+*.pkl
+*.joblib
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+.cache/
+*.egg-info/
+
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+kaggle.json
+credentials.json
+secrets.json
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
