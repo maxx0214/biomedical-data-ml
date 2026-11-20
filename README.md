@@ -1,6 +1,6 @@
 # Biomedical Data Machine Learning
 
-Sangmyung University(Bio Health) — Biomedical Data Machine Learning Lab coursework (생체데이터기계학습실습).
+Sangmyung University(BioHealth) — Biomedical Data Machine Learning Lab coursework (생체데이터기계학습실습).
 
 ## Projects
 
